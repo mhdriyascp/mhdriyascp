@@ -35,6 +35,7 @@ Experience:
 
 Education:
   MBA in Artificial Intelligence 
+  Bachelor Of Computer Science
 
 Currently Building:
   - Enterprise AI Applications
